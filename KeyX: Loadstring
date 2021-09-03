@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GS21Official/KeyX/main/KeyX%3A%20Script", true))()
